@@ -1,0 +1,45 @@
+.main-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 150px;
+}
+
+.logo {
+    width: 100px;
+    margin-right: 13px;
+}
+
+.name {
+    font-size: 27px;
+}
+
+.home {
+    width: 50px;
+    margin-left: 23px;
+}
+
+.boxheader {
+    display: flex;
+    align-items: center;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.grafia {
+    text-decoration: none;
+    color: black;
+    font-size: 27px;
+    margin-left: 23px;
+    border: 5px solid #fff;
+
+}
+
+.grafia:hover {
+    border: 5px solid #F99223;
+    border-radius: 10px;
+}
+
+.yelow {
+    color: #F99223;
+}
